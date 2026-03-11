@@ -68,3 +68,9 @@ python -m venv .venv
 Install requirements:
 
 pip install -r requirements.txt
+
+
+
+
+
+
